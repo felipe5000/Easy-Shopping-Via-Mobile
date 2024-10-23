@@ -51,6 +51,7 @@ text-align: start;
     border: none;
     border-radius: 60px;
     cursor: pointer;
+    
 }
 
 .get:hover{
@@ -85,7 +86,7 @@ left: 10%;
    
     section{
  position: absolute;
- top: 10%;
+ top: 6%;
  left: 18%;
 
     }
