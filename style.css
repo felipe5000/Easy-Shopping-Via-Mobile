@@ -1,5 +1,5 @@
 * {
-    font-family: 'Montserrat', sans-serif;
+   
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -63,14 +63,14 @@ header {
     height: 100vh;
     display: flex;
     margin-left: auto;
-    background-color: #cfcfcf;
+    background-color: #dcdeff;
 }
 
 img {
     width: 356px;
     height: 461px;
     position: absolute;
-    right: 25%;
+    right: 23%;
     bottom: 20%;
 }
 
@@ -83,7 +83,7 @@ section {
 
 }
 
-@media screen and (max-width: 1350px) {
+@media screen and (max-width: 1250px) {
 
     section {
         position: absolute;
